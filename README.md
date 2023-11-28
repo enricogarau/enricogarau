@@ -1,4 +1,26 @@
-### Hi there 👋
+### **💻 Languages, IDE & tools:**
+<table>
+  <tr>
+    <th><b>💻 Languages</b></th>
+    <th><b>⚙️ IDE & tools</b></th>
+  </tr>
+  <tr>
+    <td>
+      C - Java - Javascript - Python - MySQL - PHP - Bash
+    </td>
+    <td>
+      VS Code - CLion - IDLE - Eclipse - Arduino - Brackets
+    </td>
+  </tr>
+</table>
+
+### **🎓 Education:**
+- **2022-Currently**: B.Sc. in Computer Science student at University of Cagliari
+- **2017-2022**: High School Computer Science student at I.I.S. Michele Giua, graduated in 2022
+
+### **🌐 Languages:**
+- Italian
+- English
 
 <!--
 **enricogarau/enricogarau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
