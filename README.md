@@ -15,7 +15,7 @@
 </table>
 
 ### **🎓 Education:**
-- **2022-Currently**: B.Sc. in Computer Science student at University of Cagliari
+- **2022-Currently**: B.Sc. student in Computer Science at University of Cagliari
 - **2017-2022**: High School Computer Science student at I.I.S. Michele Giua, graduated in 2022
 
 ### **🌐 Languages:**
