@@ -9,7 +9,7 @@
       C - Java - Javascript - Python - MySQL - PHP - Bash
     </td>
     <td>
-      VS Code - CLion - IDLE - Eclipse - Arduino - Brackets
+      VS Code - CLion - IDLE - Eclipse - Arduino - Brackets - Code::Blocks
     </td>
   </tr>
 </table>
