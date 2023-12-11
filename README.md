@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <td>
-      C - Java - Javascript - Python - MySQL - PHP - Bash
+      C - Java - Javascript - MySQL - PHP - Bash - Python
     </td>
     <td>
       VS Code - CLion - IDLE - Eclipse - Arduino - Brackets - Code::Blocks
