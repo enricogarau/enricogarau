@@ -15,7 +15,7 @@
 </table>
 
 ### **🎓 Education:**
-- **2022-Currently**: B.Sc. student in [Computer Science at University of Cagliari](https://web.unica.it/unica/it/crs_60_61.page)
+- **2022-Currently**: [B.Sc. student in Computer Science at University of Cagliari](https://web.unica.it/unica/it/crs_60_61.page)
 - **2017-2022**: High School Computer Science student at [I.I.S. Michele Giua](https://www.giua.edu.it/)
 
 ### **🌐 Spoken languages:**
